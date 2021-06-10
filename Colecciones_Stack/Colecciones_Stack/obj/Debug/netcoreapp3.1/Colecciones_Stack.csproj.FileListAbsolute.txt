@@ -1,0 +1,12 @@
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\bin\Debug\netcoreapp3.1\Colecciones_Stack.exe
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\bin\Debug\netcoreapp3.1\Colecciones_Stack.deps.json
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\bin\Debug\netcoreapp3.1\Colecciones_Stack.runtimeconfig.json
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\bin\Debug\netcoreapp3.1\Colecciones_Stack.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\bin\Debug\netcoreapp3.1\Colecciones_Stack.dll
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\bin\Debug\netcoreapp3.1\Colecciones_Stack.pdb
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\obj\Debug\netcoreapp3.1\Colecciones_Stack.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\obj\Debug\netcoreapp3.1\Colecciones_Stack.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\obj\Debug\netcoreapp3.1\Colecciones_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\obj\Debug\netcoreapp3.1\Colecciones_Stack.dll
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\obj\Debug\netcoreapp3.1\Colecciones_Stack.pdb
+C:\Users\Yeison\source\repos\Colecciones_Stack\Colecciones_Stack\obj\Debug\netcoreapp3.1\Colecciones_Stack.genruntimeconfig.cache

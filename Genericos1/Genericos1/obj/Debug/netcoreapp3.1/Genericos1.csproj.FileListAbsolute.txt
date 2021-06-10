@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\bin\Debug\netcoreapp3.1\Genericos1.exe
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\bin\Debug\netcoreapp3.1\Genericos1.deps.json
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\bin\Debug\netcoreapp3.1\Genericos1.runtimeconfig.json
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\bin\Debug\netcoreapp3.1\Genericos1.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\bin\Debug\netcoreapp3.1\Genericos1.dll
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\bin\Debug\netcoreapp3.1\Genericos1.pdb
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\obj\Debug\netcoreapp3.1\Genericos1.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\obj\Debug\netcoreapp3.1\Genericos1.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\obj\Debug\netcoreapp3.1\Genericos1.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\obj\Debug\netcoreapp3.1\Genericos1.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\obj\Debug\netcoreapp3.1\Genericos1.dll
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\obj\Debug\netcoreapp3.1\Genericos1.pdb
+C:\Users\Yeison\source\repos\Genericos1\Genericos1\obj\Debug\netcoreapp3.1\Genericos1.genruntimeconfig.cache

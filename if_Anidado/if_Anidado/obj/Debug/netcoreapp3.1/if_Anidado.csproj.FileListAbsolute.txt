@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\bin\Debug\netcoreapp3.1\if_Anidado.exe
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\bin\Debug\netcoreapp3.1\if_Anidado.deps.json
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\bin\Debug\netcoreapp3.1\if_Anidado.runtimeconfig.json
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\bin\Debug\netcoreapp3.1\if_Anidado.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\bin\Debug\netcoreapp3.1\if_Anidado.dll
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\bin\Debug\netcoreapp3.1\if_Anidado.pdb
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\obj\Debug\netcoreapp3.1\if_Anidado.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\obj\Debug\netcoreapp3.1\if_Anidado.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\obj\Debug\netcoreapp3.1\if_Anidado.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\obj\Debug\netcoreapp3.1\if_Anidado.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\obj\Debug\netcoreapp3.1\if_Anidado.dll
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\obj\Debug\netcoreapp3.1\if_Anidado.pdb
+C:\Users\Yeison\source\repos\if_Anidado\if_Anidado\obj\Debug\netcoreapp3.1\if_Anidado.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\bin\Debug\CheckBox.exe.config
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\bin\Debug\CheckBox.exe
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\bin\Debug\CheckBox.pdb
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\MainWindow.g.cs
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\App.g.cs
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox_MarkupCompile.cache
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox_MarkupCompile.lref
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\MainWindow.baml
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.g.resources
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.Properties.Resources.resources
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.GenerateResource.cache
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.exe
+C:\Users\Yeison\source\repos\CheckBox\CheckBox\obj\Debug\CheckBox.pdb

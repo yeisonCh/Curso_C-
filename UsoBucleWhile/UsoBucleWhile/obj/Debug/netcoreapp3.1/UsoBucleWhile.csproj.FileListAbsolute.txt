@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\bin\Debug\netcoreapp3.1\UsoBucleWhile.exe
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\bin\Debug\netcoreapp3.1\UsoBucleWhile.deps.json
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\bin\Debug\netcoreapp3.1\UsoBucleWhile.runtimeconfig.json
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\bin\Debug\netcoreapp3.1\UsoBucleWhile.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\bin\Debug\netcoreapp3.1\UsoBucleWhile.dll
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\bin\Debug\netcoreapp3.1\UsoBucleWhile.pdb
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\obj\Debug\netcoreapp3.1\UsoBucleWhile.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\obj\Debug\netcoreapp3.1\UsoBucleWhile.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\obj\Debug\netcoreapp3.1\UsoBucleWhile.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\obj\Debug\netcoreapp3.1\UsoBucleWhile.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\obj\Debug\netcoreapp3.1\UsoBucleWhile.dll
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\obj\Debug\netcoreapp3.1\UsoBucleWhile.pdb
+C:\Users\Yeison\source\repos\UsoBucleWhile\UsoBucleWhile\obj\Debug\netcoreapp3.1\UsoBucleWhile.genruntimeconfig.cache

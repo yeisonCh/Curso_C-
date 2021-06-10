@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\obj\Debug\netcoreapp3.1\InterfacesEjemplo.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\obj\Debug\netcoreapp3.1\InterfacesEjemplo.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\obj\Debug\netcoreapp3.1\InterfacesEjemplo.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\obj\Debug\netcoreapp3.1\InterfacesEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\bin\Debug\netcoreapp3.1\InterfacesEjemplo.exe
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\bin\Debug\netcoreapp3.1\InterfacesEjemplo.deps.json
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\bin\Debug\netcoreapp3.1\InterfacesEjemplo.runtimeconfig.json
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\bin\Debug\netcoreapp3.1\InterfacesEjemplo.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\bin\Debug\netcoreapp3.1\InterfacesEjemplo.dll
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\bin\Debug\netcoreapp3.1\InterfacesEjemplo.pdb
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\obj\Debug\netcoreapp3.1\InterfacesEjemplo.dll
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\obj\Debug\netcoreapp3.1\InterfacesEjemplo.pdb
+C:\Users\Yeison\source\repos\InterfacesEjemplo\InterfacesEjemplo\obj\Debug\netcoreapp3.1\InterfacesEjemplo.genruntimeconfig.cache

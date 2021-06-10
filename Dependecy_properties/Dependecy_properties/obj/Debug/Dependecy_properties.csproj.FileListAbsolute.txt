@@ -1,0 +1,15 @@
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\bin\Debug\Dependecy_properties.exe.config
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\bin\Debug\Dependecy_properties.exe
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\bin\Debug\Dependecy_properties.pdb
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\Dependecy_properties.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\MainWindow.g.cs
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\App.g.cs
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\Dependecy_properties_MarkupCompile.cache
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\Dependecy_properties_MarkupCompile.lref
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\MainWindow.baml
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\Dependecy_properties.g.resources
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\Dependecy_properties.Properties.Resources.resources
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\Dependecy_properties.csproj.GenerateResource.cache
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\Dependecy_properties.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\Dependecy_properties.exe
+C:\Users\Yeison\source\repos\Dependecy_properties\Dependecy_properties\obj\Debug\Dependecy_properties.pdb

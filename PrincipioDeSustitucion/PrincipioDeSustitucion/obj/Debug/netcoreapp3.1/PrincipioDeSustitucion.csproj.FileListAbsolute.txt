@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\bin\Debug\netcoreapp3.1\PrincipioDeSustitucion.exe
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\bin\Debug\netcoreapp3.1\PrincipioDeSustitucion.deps.json
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\bin\Debug\netcoreapp3.1\PrincipioDeSustitucion.runtimeconfig.json
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\bin\Debug\netcoreapp3.1\PrincipioDeSustitucion.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\bin\Debug\netcoreapp3.1\PrincipioDeSustitucion.dll
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\bin\Debug\netcoreapp3.1\PrincipioDeSustitucion.pdb
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\obj\Debug\netcoreapp3.1\PrincipioDeSustitucion.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\obj\Debug\netcoreapp3.1\PrincipioDeSustitucion.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\obj\Debug\netcoreapp3.1\PrincipioDeSustitucion.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\obj\Debug\netcoreapp3.1\PrincipioDeSustitucion.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\obj\Debug\netcoreapp3.1\PrincipioDeSustitucion.dll
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\obj\Debug\netcoreapp3.1\PrincipioDeSustitucion.pdb
+C:\Users\Yeison\source\repos\PrincipioDeSustitucion\PrincipioDeSustitucion\obj\Debug\netcoreapp3.1\PrincipioDeSustitucion.genruntimeconfig.cache

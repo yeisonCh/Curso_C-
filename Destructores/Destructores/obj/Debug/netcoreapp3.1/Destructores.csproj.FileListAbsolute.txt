@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.exe
+C:\Users\Yeison\source\repos\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.deps.json
+C:\Users\Yeison\source\repos\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.runtimeconfig.json
+C:\Users\Yeison\source\repos\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.dll
+C:\Users\Yeison\source\repos\Destructores\Destructores\bin\Debug\netcoreapp3.1\Destructores.pdb
+C:\Users\Yeison\source\repos\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.dll
+C:\Users\Yeison\source\repos\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.pdb
+C:\Users\Yeison\source\repos\Destructores\Destructores\obj\Debug\netcoreapp3.1\Destructores.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\bin\Debug\netcoreapp3.1\UsoSwitch.exe
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\bin\Debug\netcoreapp3.1\UsoSwitch.deps.json
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\bin\Debug\netcoreapp3.1\UsoSwitch.runtimeconfig.json
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\bin\Debug\netcoreapp3.1\UsoSwitch.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\bin\Debug\netcoreapp3.1\UsoSwitch.dll
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\bin\Debug\netcoreapp3.1\UsoSwitch.pdb
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\obj\Debug\netcoreapp3.1\UsoSwitch.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\obj\Debug\netcoreapp3.1\UsoSwitch.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\obj\Debug\netcoreapp3.1\UsoSwitch.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\obj\Debug\netcoreapp3.1\UsoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\obj\Debug\netcoreapp3.1\UsoSwitch.dll
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\obj\Debug\netcoreapp3.1\UsoSwitch.pdb
+C:\Users\Yeison\source\repos\UsoSwitch\UsoSwitch\obj\Debug\netcoreapp3.1\UsoSwitch.genruntimeconfig.cache

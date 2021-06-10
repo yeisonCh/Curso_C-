@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\bin\Debug\netcoreapp3.1\variableImplicitas.exe
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\bin\Debug\netcoreapp3.1\variableImplicitas.deps.json
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\bin\Debug\netcoreapp3.1\variableImplicitas.runtimeconfig.json
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\bin\Debug\netcoreapp3.1\variableImplicitas.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\bin\Debug\netcoreapp3.1\variableImplicitas.dll
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\bin\Debug\netcoreapp3.1\variableImplicitas.pdb
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\obj\Debug\netcoreapp3.1\variableImplicitas.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\obj\Debug\netcoreapp3.1\variableImplicitas.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\obj\Debug\netcoreapp3.1\variableImplicitas.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\obj\Debug\netcoreapp3.1\variableImplicitas.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\obj\Debug\netcoreapp3.1\variableImplicitas.dll
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\obj\Debug\netcoreapp3.1\variableImplicitas.pdb
+C:\Users\Yeison\source\repos\variableImplicitas\variableImplicitas\obj\Debug\netcoreapp3.1\variableImplicitas.genruntimeconfig.cache

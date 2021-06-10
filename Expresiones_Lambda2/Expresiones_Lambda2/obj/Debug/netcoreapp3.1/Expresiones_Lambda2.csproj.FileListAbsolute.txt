@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\bin\Debug\netcoreapp3.1\Expresiones_Lambda2.exe
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\bin\Debug\netcoreapp3.1\Expresiones_Lambda2.deps.json
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\bin\Debug\netcoreapp3.1\Expresiones_Lambda2.runtimeconfig.json
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\bin\Debug\netcoreapp3.1\Expresiones_Lambda2.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\bin\Debug\netcoreapp3.1\Expresiones_Lambda2.dll
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\bin\Debug\netcoreapp3.1\Expresiones_Lambda2.pdb
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\obj\Debug\netcoreapp3.1\Expresiones_Lambda2.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\obj\Debug\netcoreapp3.1\Expresiones_Lambda2.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\obj\Debug\netcoreapp3.1\Expresiones_Lambda2.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\obj\Debug\netcoreapp3.1\Expresiones_Lambda2.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\obj\Debug\netcoreapp3.1\Expresiones_Lambda2.dll
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\obj\Debug\netcoreapp3.1\Expresiones_Lambda2.pdb
+C:\Users\Yeison\source\repos\Expresiones_Lambda2\Expresiones_Lambda2\obj\Debug\netcoreapp3.1\Expresiones_Lambda2.genruntimeconfig.cache

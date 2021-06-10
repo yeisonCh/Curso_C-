@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\bin\Debug\netcoreapp3.1\lanzarExepciones.exe
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\bin\Debug\netcoreapp3.1\lanzarExepciones.deps.json
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\bin\Debug\netcoreapp3.1\lanzarExepciones.runtimeconfig.json
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\bin\Debug\netcoreapp3.1\lanzarExepciones.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\bin\Debug\netcoreapp3.1\lanzarExepciones.dll
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\bin\Debug\netcoreapp3.1\lanzarExepciones.pdb
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\obj\Debug\netcoreapp3.1\lanzarExepciones.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\obj\Debug\netcoreapp3.1\lanzarExepciones.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\obj\Debug\netcoreapp3.1\lanzarExepciones.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\obj\Debug\netcoreapp3.1\lanzarExepciones.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\obj\Debug\netcoreapp3.1\lanzarExepciones.dll
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\obj\Debug\netcoreapp3.1\lanzarExepciones.pdb
+C:\Users\Yeison\source\repos\lanzarExepciones\lanzarExepciones\obj\Debug\netcoreapp3.1\lanzarExepciones.genruntimeconfig.cache

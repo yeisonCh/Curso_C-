@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\bin\Debug\netcoreapp3.1\numeroAleatorio.exe
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\bin\Debug\netcoreapp3.1\numeroAleatorio.deps.json
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\bin\Debug\netcoreapp3.1\numeroAleatorio.runtimeconfig.json
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\bin\Debug\netcoreapp3.1\numeroAleatorio.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\bin\Debug\netcoreapp3.1\numeroAleatorio.dll
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\bin\Debug\netcoreapp3.1\numeroAleatorio.pdb
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\obj\Debug\netcoreapp3.1\numeroAleatorio.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\obj\Debug\netcoreapp3.1\numeroAleatorio.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\obj\Debug\netcoreapp3.1\numeroAleatorio.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\obj\Debug\netcoreapp3.1\numeroAleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\obj\Debug\netcoreapp3.1\numeroAleatorio.dll
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\obj\Debug\netcoreapp3.1\numeroAleatorio.pdb
+C:\Users\Yeison\source\repos\numeroAleatorio\numeroAleatorio\obj\Debug\netcoreapp3.1\numeroAleatorio.genruntimeconfig.cache

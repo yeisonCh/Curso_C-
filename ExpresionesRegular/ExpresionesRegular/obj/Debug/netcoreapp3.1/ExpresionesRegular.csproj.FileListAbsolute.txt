@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\bin\Debug\netcoreapp3.1\ExpresionesRegular.exe
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\bin\Debug\netcoreapp3.1\ExpresionesRegular.deps.json
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\bin\Debug\netcoreapp3.1\ExpresionesRegular.runtimeconfig.json
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\bin\Debug\netcoreapp3.1\ExpresionesRegular.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\bin\Debug\netcoreapp3.1\ExpresionesRegular.dll
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\bin\Debug\netcoreapp3.1\ExpresionesRegular.pdb
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\obj\Debug\netcoreapp3.1\ExpresionesRegular.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\obj\Debug\netcoreapp3.1\ExpresionesRegular.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\obj\Debug\netcoreapp3.1\ExpresionesRegular.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\obj\Debug\netcoreapp3.1\ExpresionesRegular.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\obj\Debug\netcoreapp3.1\ExpresionesRegular.dll
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\obj\Debug\netcoreapp3.1\ExpresionesRegular.pdb
+C:\Users\Yeison\source\repos\ExpresionesRegular\ExpresionesRegular\obj\Debug\netcoreapp3.1\ExpresionesRegular.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\bin\Debug\netcoreapp3.1\Colecciones3.exe
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\bin\Debug\netcoreapp3.1\Colecciones3.deps.json
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\bin\Debug\netcoreapp3.1\Colecciones3.runtimeconfig.json
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\bin\Debug\netcoreapp3.1\Colecciones3.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\bin\Debug\netcoreapp3.1\Colecciones3.dll
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\bin\Debug\netcoreapp3.1\Colecciones3.pdb
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\obj\Debug\netcoreapp3.1\Colecciones3.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\obj\Debug\netcoreapp3.1\Colecciones3.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\obj\Debug\netcoreapp3.1\Colecciones3.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\obj\Debug\netcoreapp3.1\Colecciones3.dll
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\obj\Debug\netcoreapp3.1\Colecciones3.pdb
+C:\Users\Yeison\source\repos\Colecciones3\Colecciones3\obj\Debug\netcoreapp3.1\Colecciones3.genruntimeconfig.cache

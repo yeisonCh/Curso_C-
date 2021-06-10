@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\bin\Debug\netcoreapp3.1\Coleccion_Diccionario.exe
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\bin\Debug\netcoreapp3.1\Coleccion_Diccionario.deps.json
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\bin\Debug\netcoreapp3.1\Coleccion_Diccionario.runtimeconfig.json
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\bin\Debug\netcoreapp3.1\Coleccion_Diccionario.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\bin\Debug\netcoreapp3.1\Coleccion_Diccionario.dll
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\bin\Debug\netcoreapp3.1\Coleccion_Diccionario.pdb
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\obj\Debug\netcoreapp3.1\Coleccion_Diccionario.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\obj\Debug\netcoreapp3.1\Coleccion_Diccionario.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\obj\Debug\netcoreapp3.1\Coleccion_Diccionario.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\obj\Debug\netcoreapp3.1\Coleccion_Diccionario.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\obj\Debug\netcoreapp3.1\Coleccion_Diccionario.dll
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\obj\Debug\netcoreapp3.1\Coleccion_Diccionario.pdb
+C:\Users\Yeison\source\repos\Coleccion_Diccionario\Coleccion_Diccionario\obj\Debug\netcoreapp3.1\Coleccion_Diccionario.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\bin\Debug\netcoreapp3.1\TiposEnumerado_Enum.exe
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\bin\Debug\netcoreapp3.1\TiposEnumerado_Enum.deps.json
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\bin\Debug\netcoreapp3.1\TiposEnumerado_Enum.runtimeconfig.json
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\bin\Debug\netcoreapp3.1\TiposEnumerado_Enum.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\bin\Debug\netcoreapp3.1\TiposEnumerado_Enum.dll
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\bin\Debug\netcoreapp3.1\TiposEnumerado_Enum.pdb
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\obj\Debug\netcoreapp3.1\TiposEnumerado_Enum.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\obj\Debug\netcoreapp3.1\TiposEnumerado_Enum.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\obj\Debug\netcoreapp3.1\TiposEnumerado_Enum.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\obj\Debug\netcoreapp3.1\TiposEnumerado_Enum.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\obj\Debug\netcoreapp3.1\TiposEnumerado_Enum.dll
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\obj\Debug\netcoreapp3.1\TiposEnumerado_Enum.pdb
+C:\Users\Yeison\source\repos\TiposEnumerado_Enum\TiposEnumerado_Enum\obj\Debug\netcoreapp3.1\TiposEnumerado_Enum.genruntimeconfig.cache

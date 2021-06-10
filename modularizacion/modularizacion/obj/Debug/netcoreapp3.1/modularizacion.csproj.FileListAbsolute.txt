@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\bin\Debug\netcoreapp3.1\modularizacion.exe
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\bin\Debug\netcoreapp3.1\modularizacion.deps.json
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\bin\Debug\netcoreapp3.1\modularizacion.runtimeconfig.json
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\bin\Debug\netcoreapp3.1\modularizacion.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\bin\Debug\netcoreapp3.1\modularizacion.dll
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\bin\Debug\netcoreapp3.1\modularizacion.pdb
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\obj\Debug\netcoreapp3.1\modularizacion.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\obj\Debug\netcoreapp3.1\modularizacion.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\obj\Debug\netcoreapp3.1\modularizacion.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\obj\Debug\netcoreapp3.1\modularizacion.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\obj\Debug\netcoreapp3.1\modularizacion.dll
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\obj\Debug\netcoreapp3.1\modularizacion.pdb
+C:\Users\Yeison\source\repos\modularizacion\modularizacion\obj\Debug\netcoreapp3.1\modularizacion.genruntimeconfig.cache

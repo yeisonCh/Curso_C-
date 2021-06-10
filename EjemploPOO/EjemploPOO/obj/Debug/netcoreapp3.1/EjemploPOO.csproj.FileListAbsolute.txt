@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.exe
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.deps.json
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.runtimeconfig.json
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.dll
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\bin\Debug\netcoreapp3.1\EjemploPOO.pdb
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.dll
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.pdb
+C:\Users\Yeison\source\repos\EjemploPOO\EjemploPOO\obj\Debug\netcoreapp3.1\EjemploPOO.genruntimeconfig.cache

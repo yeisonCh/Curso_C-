@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\bin\Debug\netcoreapp3.1\ExpresionesLanda.exe
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\bin\Debug\netcoreapp3.1\ExpresionesLanda.deps.json
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\bin\Debug\netcoreapp3.1\ExpresionesLanda.runtimeconfig.json
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\bin\Debug\netcoreapp3.1\ExpresionesLanda.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\bin\Debug\netcoreapp3.1\ExpresionesLanda.dll
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\bin\Debug\netcoreapp3.1\ExpresionesLanda.pdb
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\obj\Debug\netcoreapp3.1\ExpresionesLanda.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\obj\Debug\netcoreapp3.1\ExpresionesLanda.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\obj\Debug\netcoreapp3.1\ExpresionesLanda.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\obj\Debug\netcoreapp3.1\ExpresionesLanda.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\obj\Debug\netcoreapp3.1\ExpresionesLanda.dll
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\obj\Debug\netcoreapp3.1\ExpresionesLanda.pdb
+C:\Users\Yeison\source\repos\ExpresionesLanda\ExpresionesLanda\obj\Debug\netcoreapp3.1\ExpresionesLanda.genruntimeconfig.cache

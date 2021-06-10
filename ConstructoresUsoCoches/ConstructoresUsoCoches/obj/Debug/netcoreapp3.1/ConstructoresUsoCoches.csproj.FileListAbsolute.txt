@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\bin\Debug\netcoreapp3.1\ConstructoresUsoCoches.exe
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\bin\Debug\netcoreapp3.1\ConstructoresUsoCoches.deps.json
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\bin\Debug\netcoreapp3.1\ConstructoresUsoCoches.runtimeconfig.json
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\bin\Debug\netcoreapp3.1\ConstructoresUsoCoches.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\bin\Debug\netcoreapp3.1\ConstructoresUsoCoches.dll
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\bin\Debug\netcoreapp3.1\ConstructoresUsoCoches.pdb
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\obj\Debug\netcoreapp3.1\ConstructoresUsoCoches.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\obj\Debug\netcoreapp3.1\ConstructoresUsoCoches.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\obj\Debug\netcoreapp3.1\ConstructoresUsoCoches.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\obj\Debug\netcoreapp3.1\ConstructoresUsoCoches.dll
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\obj\Debug\netcoreapp3.1\ConstructoresUsoCoches.pdb
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\obj\Debug\netcoreapp3.1\ConstructoresUsoCoches.genruntimeconfig.cache
+C:\Users\Yeison\source\repos\ConstructoresUsoCoches\ConstructoresUsoCoches\obj\Debug\netcoreapp3.1\ConstructoresUsoCoches.csprojAssemblyReference.cache

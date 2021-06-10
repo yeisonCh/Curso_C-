@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\bin\Debug\netcoreapp3.1\ExcepcionesConFiltros.exe
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\bin\Debug\netcoreapp3.1\ExcepcionesConFiltros.deps.json
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\bin\Debug\netcoreapp3.1\ExcepcionesConFiltros.runtimeconfig.json
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\bin\Debug\netcoreapp3.1\ExcepcionesConFiltros.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\bin\Debug\netcoreapp3.1\ExcepcionesConFiltros.dll
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\bin\Debug\netcoreapp3.1\ExcepcionesConFiltros.pdb
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\obj\Debug\netcoreapp3.1\ExcepcionesConFiltros.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\obj\Debug\netcoreapp3.1\ExcepcionesConFiltros.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\obj\Debug\netcoreapp3.1\ExcepcionesConFiltros.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\obj\Debug\netcoreapp3.1\ExcepcionesConFiltros.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\obj\Debug\netcoreapp3.1\ExcepcionesConFiltros.dll
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\obj\Debug\netcoreapp3.1\ExcepcionesConFiltros.pdb
+C:\Users\Yeison\source\repos\ExcepcionesConFiltros\ExcepcionesConFiltros\obj\Debug\netcoreapp3.1\ExcepcionesConFiltros.genruntimeconfig.cache

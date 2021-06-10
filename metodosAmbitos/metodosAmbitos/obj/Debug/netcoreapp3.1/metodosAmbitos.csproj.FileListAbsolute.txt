@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\bin\Debug\netcoreapp3.1\metodosAmbitos.exe
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\bin\Debug\netcoreapp3.1\metodosAmbitos.deps.json
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\bin\Debug\netcoreapp3.1\metodosAmbitos.runtimeconfig.json
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\bin\Debug\netcoreapp3.1\metodosAmbitos.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\bin\Debug\netcoreapp3.1\metodosAmbitos.dll
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\bin\Debug\netcoreapp3.1\metodosAmbitos.pdb
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\obj\Debug\netcoreapp3.1\metodosAmbitos.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\obj\Debug\netcoreapp3.1\metodosAmbitos.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\obj\Debug\netcoreapp3.1\metodosAmbitos.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\obj\Debug\netcoreapp3.1\metodosAmbitos.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\obj\Debug\netcoreapp3.1\metodosAmbitos.dll
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\obj\Debug\netcoreapp3.1\metodosAmbitos.pdb
+C:\Users\Yeison\source\repos\metodosAmbitos\metodosAmbitos\obj\Debug\netcoreapp3.1\metodosAmbitos.genruntimeconfig.cache

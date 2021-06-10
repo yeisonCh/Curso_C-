@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\obj\Debug\netcoreapp3.1\conflictoExcepciones.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\obj\Debug\netcoreapp3.1\conflictoExcepciones.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\obj\Debug\netcoreapp3.1\conflictoExcepciones.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\obj\Debug\netcoreapp3.1\conflictoExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\bin\Debug\netcoreapp3.1\conflictoExcepciones.exe
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\bin\Debug\netcoreapp3.1\conflictoExcepciones.deps.json
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\bin\Debug\netcoreapp3.1\conflictoExcepciones.runtimeconfig.json
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\bin\Debug\netcoreapp3.1\conflictoExcepciones.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\bin\Debug\netcoreapp3.1\conflictoExcepciones.dll
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\bin\Debug\netcoreapp3.1\conflictoExcepciones.pdb
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\obj\Debug\netcoreapp3.1\conflictoExcepciones.dll
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\obj\Debug\netcoreapp3.1\conflictoExcepciones.pdb
+C:\Users\Yeison\source\repos\conflictoExcepciones\conflictoExcepciones\obj\Debug\netcoreapp3.1\conflictoExcepciones.genruntimeconfig.cache

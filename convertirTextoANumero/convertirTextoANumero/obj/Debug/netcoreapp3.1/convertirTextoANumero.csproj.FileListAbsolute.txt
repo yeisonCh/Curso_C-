@@ -1,0 +1,12 @@
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\bin\Debug\netcoreapp3.1\convertirTextoANumero.exe
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\bin\Debug\netcoreapp3.1\convertirTextoANumero.deps.json
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\bin\Debug\netcoreapp3.1\convertirTextoANumero.runtimeconfig.json
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\bin\Debug\netcoreapp3.1\convertirTextoANumero.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\bin\Debug\netcoreapp3.1\convertirTextoANumero.dll
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\bin\Debug\netcoreapp3.1\convertirTextoANumero.pdb
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\obj\Debug\netcoreapp3.1\convertirTextoANumero.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\obj\Debug\netcoreapp3.1\convertirTextoANumero.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\obj\Debug\netcoreapp3.1\convertirTextoANumero.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\obj\Debug\netcoreapp3.1\convertirTextoANumero.dll
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\obj\Debug\netcoreapp3.1\convertirTextoANumero.pdb
+C:\Users\Yeison\source\repos\convertirTextoANumero\convertirTextoANumero\obj\Debug\netcoreapp3.1\convertirTextoANumero.genruntimeconfig.cache

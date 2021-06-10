@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\obj\Debug\netcoreapp3.1\EjemploEnum.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\obj\Debug\netcoreapp3.1\EjemploEnum.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\obj\Debug\netcoreapp3.1\EjemploEnum.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\obj\Debug\netcoreapp3.1\EjemploEnum.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\bin\Debug\netcoreapp3.1\EjemploEnum.exe
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\bin\Debug\netcoreapp3.1\EjemploEnum.deps.json
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\bin\Debug\netcoreapp3.1\EjemploEnum.runtimeconfig.json
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\bin\Debug\netcoreapp3.1\EjemploEnum.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\bin\Debug\netcoreapp3.1\EjemploEnum.dll
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\bin\Debug\netcoreapp3.1\EjemploEnum.pdb
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\obj\Debug\netcoreapp3.1\EjemploEnum.dll
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\obj\Debug\netcoreapp3.1\EjemploEnum.pdb
+C:\Users\Yeison\source\repos\EjemploEnum\EjemploEnum\obj\Debug\netcoreapp3.1\EjemploEnum.genruntimeconfig.cache

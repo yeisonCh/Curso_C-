@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\bin\Debug\netcoreapp3.1\ejemploFinally.exe
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\bin\Debug\netcoreapp3.1\ejemploFinally.deps.json
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\bin\Debug\netcoreapp3.1\ejemploFinally.runtimeconfig.json
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\bin\Debug\netcoreapp3.1\ejemploFinally.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\bin\Debug\netcoreapp3.1\ejemploFinally.dll
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\bin\Debug\netcoreapp3.1\ejemploFinally.pdb
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\obj\Debug\netcoreapp3.1\ejemploFinally.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\obj\Debug\netcoreapp3.1\ejemploFinally.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\obj\Debug\netcoreapp3.1\ejemploFinally.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\obj\Debug\netcoreapp3.1\ejemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\obj\Debug\netcoreapp3.1\ejemploFinally.dll
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\obj\Debug\netcoreapp3.1\ejemploFinally.pdb
+C:\Users\Yeison\source\repos\ejemploFinally\ejemploFinally\obj\Debug\netcoreapp3.1\ejemploFinally.genruntimeconfig.cache

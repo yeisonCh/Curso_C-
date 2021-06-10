@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "if_Anidado/1.0.0": {
+        "runtime": {
+          "if_Anidado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "if_Anidado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

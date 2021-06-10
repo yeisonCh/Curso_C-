@@ -1,0 +1,15 @@
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\bin\Debug\InterfazGrafica2.exe.config
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\bin\Debug\InterfazGrafica2.exe
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\bin\Debug\InterfazGrafica2.pdb
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\InterfazGrafica2.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\MainWindow.g.cs
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\App.g.cs
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\InterfazGrafica2_MarkupCompile.cache
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\InterfazGrafica2_MarkupCompile.lref
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\MainWindow.baml
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\InterfazGrafica2.g.resources
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\InterfazGrafica2.Properties.Resources.resources
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\InterfazGrafica2.csproj.GenerateResource.cache
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\InterfazGrafica2.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\InterfazGrafica2.exe
+C:\Users\Yeison\source\repos\InterfazGrafica2\InterfazGrafica2\obj\Debug\InterfazGrafica2.pdb

@@ -1,0 +1,17 @@
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\bin\Debug\GestionPedidos.exe.config
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\bin\Debug\GestionPedidos.exe
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\bin\Debug\GestionPedidos.pdb
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\GestionPedidos.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\MainWindow.g.cs
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\App.g.cs
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\GestionPedidos_MarkupCompile.cache
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\GestionPedidos_MarkupCompile.lref
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\MainWindow.baml
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\GestionPedidos.g.resources
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\GestionPedidos.Properties.Resources.resources
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\GestionPedidos.csproj.GenerateResource.cache
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\GestionPedidos.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\GestionPedidos.exe
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\GestionPedidos.pdb
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\Actualiza.g.cs
+C:\Users\Yeison\source\repos\GestionPedidos\GestionPedidos\obj\Debug\Actualiza.baml

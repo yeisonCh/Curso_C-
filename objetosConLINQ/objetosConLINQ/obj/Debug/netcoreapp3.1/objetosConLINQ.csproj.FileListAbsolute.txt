@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\bin\Debug\netcoreapp3.1\objetosConLINQ.exe
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\bin\Debug\netcoreapp3.1\objetosConLINQ.deps.json
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\bin\Debug\netcoreapp3.1\objetosConLINQ.runtimeconfig.json
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\bin\Debug\netcoreapp3.1\objetosConLINQ.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\bin\Debug\netcoreapp3.1\objetosConLINQ.dll
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\bin\Debug\netcoreapp3.1\objetosConLINQ.pdb
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\obj\Debug\netcoreapp3.1\objetosConLINQ.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\obj\Debug\netcoreapp3.1\objetosConLINQ.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\obj\Debug\netcoreapp3.1\objetosConLINQ.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\obj\Debug\netcoreapp3.1\objetosConLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\obj\Debug\netcoreapp3.1\objetosConLINQ.dll
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\obj\Debug\netcoreapp3.1\objetosConLINQ.pdb
+C:\Users\Yeison\source\repos\objetosConLINQ\objetosConLINQ\obj\Debug\netcoreapp3.1\objetosConLINQ.genruntimeconfig.cache

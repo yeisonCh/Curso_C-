@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.exe
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.deps.json
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.runtimeconfig.json
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.dll
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\bin\Debug\netcoreapp3.1\ClasesAbstractas.pdb
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.dll
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.pdb
+C:\Users\Yeison\source\repos\ClasesAbstractas\ClasesAbstractas\obj\Debug\netcoreapp3.1\ClasesAbstractas.genruntimeconfig.cache

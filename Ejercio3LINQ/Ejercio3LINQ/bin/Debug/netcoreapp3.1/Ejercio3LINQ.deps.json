@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejercio3LINQ/1.0.0": {
+        "runtime": {
+          "Ejercio3LINQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercio3LINQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\bin\Debug\netcoreapp3.1\condicionalIF_2.exe
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\bin\Debug\netcoreapp3.1\condicionalIF_2.deps.json
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\bin\Debug\netcoreapp3.1\condicionalIF_2.runtimeconfig.json
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\bin\Debug\netcoreapp3.1\condicionalIF_2.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\bin\Debug\netcoreapp3.1\condicionalIF_2.dll
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\bin\Debug\netcoreapp3.1\condicionalIF_2.pdb
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\obj\Debug\netcoreapp3.1\condicionalIF_2.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\obj\Debug\netcoreapp3.1\condicionalIF_2.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\obj\Debug\netcoreapp3.1\condicionalIF_2.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\obj\Debug\netcoreapp3.1\condicionalIF_2.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\obj\Debug\netcoreapp3.1\condicionalIF_2.dll
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\obj\Debug\netcoreapp3.1\condicionalIF_2.pdb
+C:\Users\Yeison\source\repos\condicionalIF_2\condicionalIF_2\obj\Debug\netcoreapp3.1\condicionalIF_2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\bin\Debug\netcoreapp3.1\Ejercio3LINQ.exe
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\bin\Debug\netcoreapp3.1\Ejercio3LINQ.deps.json
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\bin\Debug\netcoreapp3.1\Ejercio3LINQ.runtimeconfig.json
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\bin\Debug\netcoreapp3.1\Ejercio3LINQ.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\bin\Debug\netcoreapp3.1\Ejercio3LINQ.dll
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\bin\Debug\netcoreapp3.1\Ejercio3LINQ.pdb
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\obj\Debug\netcoreapp3.1\Ejercio3LINQ.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\obj\Debug\netcoreapp3.1\Ejercio3LINQ.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\obj\Debug\netcoreapp3.1\Ejercio3LINQ.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\obj\Debug\netcoreapp3.1\Ejercio3LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\obj\Debug\netcoreapp3.1\Ejercio3LINQ.dll
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\obj\Debug\netcoreapp3.1\Ejercio3LINQ.pdb
+C:\Users\Yeison\source\repos\Ejercio3LINQ\Ejercio3LINQ\obj\Debug\netcoreapp3.1\Ejercio3LINQ.genruntimeconfig.cache

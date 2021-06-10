@@ -1,0 +1,12 @@
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\bin\Debug\netcoreapp3.1\ClaseAnonima.exe
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\bin\Debug\netcoreapp3.1\ClaseAnonima.deps.json
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\bin\Debug\netcoreapp3.1\ClaseAnonima.runtimeconfig.json
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\bin\Debug\netcoreapp3.1\ClaseAnonima.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\bin\Debug\netcoreapp3.1\ClaseAnonima.dll
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\bin\Debug\netcoreapp3.1\ClaseAnonima.pdb
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\obj\Debug\netcoreapp3.1\ClaseAnonima.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\obj\Debug\netcoreapp3.1\ClaseAnonima.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\obj\Debug\netcoreapp3.1\ClaseAnonima.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\obj\Debug\netcoreapp3.1\ClaseAnonima.dll
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\obj\Debug\netcoreapp3.1\ClaseAnonima.pdb
+C:\Users\Yeison\source\repos\ClaseAnonima\ClaseAnonima\obj\Debug\netcoreapp3.1\ClaseAnonima.genruntimeconfig.cache

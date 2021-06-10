@@ -1,0 +1,12 @@
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\bin\Debug\netcoreapp3.1\Coleccion_Cola.exe
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\bin\Debug\netcoreapp3.1\Coleccion_Cola.deps.json
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\bin\Debug\netcoreapp3.1\Coleccion_Cola.runtimeconfig.json
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\bin\Debug\netcoreapp3.1\Coleccion_Cola.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\bin\Debug\netcoreapp3.1\Coleccion_Cola.dll
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\bin\Debug\netcoreapp3.1\Coleccion_Cola.pdb
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\obj\Debug\netcoreapp3.1\Coleccion_Cola.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\obj\Debug\netcoreapp3.1\Coleccion_Cola.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\obj\Debug\netcoreapp3.1\Coleccion_Cola.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\obj\Debug\netcoreapp3.1\Coleccion_Cola.dll
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\obj\Debug\netcoreapp3.1\Coleccion_Cola.pdb
+C:\Users\Yeison\source\repos\Coleccion_Cola\Coleccion_Cola\obj\Debug\netcoreapp3.1\Coleccion_Cola.genruntimeconfig.cache

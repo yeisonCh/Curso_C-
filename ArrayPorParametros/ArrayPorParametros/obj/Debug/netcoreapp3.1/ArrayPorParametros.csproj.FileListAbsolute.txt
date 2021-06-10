@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\bin\Debug\netcoreapp3.1\ArrayPorParametros.exe
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\bin\Debug\netcoreapp3.1\ArrayPorParametros.deps.json
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\bin\Debug\netcoreapp3.1\ArrayPorParametros.runtimeconfig.json
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\bin\Debug\netcoreapp3.1\ArrayPorParametros.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\bin\Debug\netcoreapp3.1\ArrayPorParametros.dll
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\bin\Debug\netcoreapp3.1\ArrayPorParametros.pdb
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\obj\Debug\netcoreapp3.1\ArrayPorParametros.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\obj\Debug\netcoreapp3.1\ArrayPorParametros.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\obj\Debug\netcoreapp3.1\ArrayPorParametros.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\obj\Debug\netcoreapp3.1\ArrayPorParametros.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\obj\Debug\netcoreapp3.1\ArrayPorParametros.dll
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\obj\Debug\netcoreapp3.1\ArrayPorParametros.pdb
+C:\Users\Yeison\source\repos\ArrayPorParametros\ArrayPorParametros\obj\Debug\netcoreapp3.1\ArrayPorParametros.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\bin\Debug\netcoreapp3.1\variableConstante.exe
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\bin\Debug\netcoreapp3.1\variableConstante.deps.json
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\bin\Debug\netcoreapp3.1\variableConstante.runtimeconfig.json
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\bin\Debug\netcoreapp3.1\variableConstante.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\bin\Debug\netcoreapp3.1\variableConstante.dll
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\bin\Debug\netcoreapp3.1\variableConstante.pdb
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\obj\Debug\netcoreapp3.1\variableConstante.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\obj\Debug\netcoreapp3.1\variableConstante.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\obj\Debug\netcoreapp3.1\variableConstante.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\obj\Debug\netcoreapp3.1\variableConstante.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\obj\Debug\netcoreapp3.1\variableConstante.dll
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\obj\Debug\netcoreapp3.1\variableConstante.pdb
+C:\Users\Yeison\source\repos\variableConstante\variableConstante\obj\Debug\netcoreapp3.1\variableConstante.genruntimeconfig.cache

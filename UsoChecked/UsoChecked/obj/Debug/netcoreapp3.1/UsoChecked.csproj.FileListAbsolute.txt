@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\bin\Debug\netcoreapp3.1\UsoChecked.exe
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\bin\Debug\netcoreapp3.1\UsoChecked.deps.json
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\bin\Debug\netcoreapp3.1\UsoChecked.runtimeconfig.json
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\bin\Debug\netcoreapp3.1\UsoChecked.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\bin\Debug\netcoreapp3.1\UsoChecked.dll
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\bin\Debug\netcoreapp3.1\UsoChecked.pdb
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\obj\Debug\netcoreapp3.1\UsoChecked.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\obj\Debug\netcoreapp3.1\UsoChecked.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\obj\Debug\netcoreapp3.1\UsoChecked.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\obj\Debug\netcoreapp3.1\UsoChecked.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\obj\Debug\netcoreapp3.1\UsoChecked.dll
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\obj\Debug\netcoreapp3.1\UsoChecked.pdb
+C:\Users\Yeison\source\repos\UsoChecked\UsoChecked\obj\Debug\netcoreapp3.1\UsoChecked.genruntimeconfig.cache

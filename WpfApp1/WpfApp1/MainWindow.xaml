@@ -1,0 +1,48 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Uso de controles" Height="616.875" Width="1156.25">
+    <Grid>
+        <TabControl HorizontalAlignment="Left" Height="309" Margin="133,35,0,0" VerticalAlignment="Top" Width="654" RenderTransformOrigin="-0.414,0.168">
+            <TabItem Header="Joel">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Nombre" HorizontalAlignment="Left" Margin="19,28,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Snap ITC" FontSize="14"/>
+                    <TextBox HorizontalAlignment="Left" BorderBrush="DarkOrchid" Height="23" Margin="121,33,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="210" Background="White" RenderTransformOrigin="0.75,0.522"/>
+                    <Label Content="Apellidos" HorizontalAlignment="Left" Margin="19,66,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Snap ITC" FontSize="14"/>
+                    <TextBox HorizontalAlignment="Left" Height="26" Margin="121,66,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="210" Background="White" RenderTransformOrigin="0.658,0.609" Foreground="#FFC72020"/>
+                    <Label Content="Sexo" HorizontalAlignment="Left" Margin="19,110,0,0" VerticalAlignment="Top" Width="54" FontWeight="Bold" FontFamily="Snap ITC" FontSize="14"/>
+                    <RadioButton Content="Masculino" HorizontalAlignment="Left" Margin="111,120,0,0" VerticalAlignment="Top"/>
+                    <RadioButton Content="Femenino" HorizontalAlignment="Left" Margin="111,140,0,0" VerticalAlignment="Top"/>
+                    <Label Content="Nacionalidad" HorizontalAlignment="Left" Margin="19,173,0,0" VerticalAlignment="Top"/>
+                    <ListBox   HorizontalAlignment="Left" Height="100" Margin="111,173,0,0" VerticalAlignment="Top" Width="100">
+                        <ListBoxItem Content="Colombia"/>
+                        <ListBoxItem Content="Peru"/>
+                        <ListBoxItem Content="Ecuador"/>
+                        <ListBoxItem Content="Bolivia"/>
+                    </ListBox>
+                    <Image HorizontalAlignment="Left" Height="100" Margin="415,78,0,0" VerticalAlignment="Top" Width="100">
+                        <Image.OpacityMask>
+                            <ImageBrush ImageSource="linux.PNG" TileMode="FlipX"/>
+                        </Image.OpacityMask>
+                    </Image>
+
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Andres">
+                <Grid Background="#FFE5E5E5">
+                    <Label Content="Profesión" HorizontalAlignment="Left" Margin="80,51,0,0" VerticalAlignment="Top" Width="91"/>
+                    <TextBox HorizontalAlignment="Left" Height="23" Margin="147,55,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="TabItem" HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="54">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

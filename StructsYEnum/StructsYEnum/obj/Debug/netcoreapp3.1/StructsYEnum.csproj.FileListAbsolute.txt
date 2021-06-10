@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\bin\Debug\netcoreapp3.1\StructsYEnum.exe
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\bin\Debug\netcoreapp3.1\StructsYEnum.deps.json
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\bin\Debug\netcoreapp3.1\StructsYEnum.runtimeconfig.json
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\bin\Debug\netcoreapp3.1\StructsYEnum.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\bin\Debug\netcoreapp3.1\StructsYEnum.dll
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\bin\Debug\netcoreapp3.1\StructsYEnum.pdb
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\obj\Debug\netcoreapp3.1\StructsYEnum.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\obj\Debug\netcoreapp3.1\StructsYEnum.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\obj\Debug\netcoreapp3.1\StructsYEnum.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\obj\Debug\netcoreapp3.1\StructsYEnum.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\obj\Debug\netcoreapp3.1\StructsYEnum.dll
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\obj\Debug\netcoreapp3.1\StructsYEnum.pdb
+C:\Users\Yeison\source\repos\StructsYEnum\StructsYEnum\obj\Debug\netcoreapp3.1\StructsYEnum.genruntimeconfig.cache

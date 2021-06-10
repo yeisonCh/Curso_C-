@@ -1,0 +1,12 @@
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\bin\Debug\netcoreapp3.1\metodosReturn.exe
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\bin\Debug\netcoreapp3.1\metodosReturn.deps.json
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\bin\Debug\netcoreapp3.1\metodosReturn.runtimeconfig.json
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\bin\Debug\netcoreapp3.1\metodosReturn.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\bin\Debug\netcoreapp3.1\metodosReturn.dll
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\bin\Debug\netcoreapp3.1\metodosReturn.pdb
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\obj\Debug\netcoreapp3.1\metodosReturn.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\obj\Debug\netcoreapp3.1\metodosReturn.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\obj\Debug\netcoreapp3.1\metodosReturn.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\obj\Debug\netcoreapp3.1\metodosReturn.dll
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\obj\Debug\netcoreapp3.1\metodosReturn.pdb
+C:\Users\Yeison\source\repos\metodosReturn\metodosReturn\obj\Debug\netcoreapp3.1\metodosReturn.genruntimeconfig.cache

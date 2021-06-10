@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\bin\Debug\netcoreapp3.1\CrearMetodos.exe
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\bin\Debug\netcoreapp3.1\CrearMetodos.deps.json
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\bin\Debug\netcoreapp3.1\CrearMetodos.runtimeconfig.json
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\bin\Debug\netcoreapp3.1\CrearMetodos.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\bin\Debug\netcoreapp3.1\CrearMetodos.dll
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\bin\Debug\netcoreapp3.1\CrearMetodos.pdb
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\obj\Debug\netcoreapp3.1\CrearMetodos.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\obj\Debug\netcoreapp3.1\CrearMetodos.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\obj\Debug\netcoreapp3.1\CrearMetodos.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\obj\Debug\netcoreapp3.1\CrearMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\obj\Debug\netcoreapp3.1\CrearMetodos.dll
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\obj\Debug\netcoreapp3.1\CrearMetodos.pdb
+C:\Users\Yeison\source\repos\CrearMetodos\CrearMetodos\obj\Debug\netcoreapp3.1\CrearMetodos.genruntimeconfig.cache

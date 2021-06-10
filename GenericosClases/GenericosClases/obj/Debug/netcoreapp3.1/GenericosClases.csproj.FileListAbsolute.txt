@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\bin\Debug\netcoreapp3.1\GenericosClases.exe
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\bin\Debug\netcoreapp3.1\GenericosClases.deps.json
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\bin\Debug\netcoreapp3.1\GenericosClases.runtimeconfig.json
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\bin\Debug\netcoreapp3.1\GenericosClases.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\bin\Debug\netcoreapp3.1\GenericosClases.dll
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\bin\Debug\netcoreapp3.1\GenericosClases.pdb
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\obj\Debug\netcoreapp3.1\GenericosClases.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\obj\Debug\netcoreapp3.1\GenericosClases.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\obj\Debug\netcoreapp3.1\GenericosClases.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\obj\Debug\netcoreapp3.1\GenericosClases.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\obj\Debug\netcoreapp3.1\GenericosClases.dll
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\obj\Debug\netcoreapp3.1\GenericosClases.pdb
+C:\Users\Yeison\source\repos\GenericosClases\GenericosClases\obj\Debug\netcoreapp3.1\GenericosClases.genruntimeconfig.cache

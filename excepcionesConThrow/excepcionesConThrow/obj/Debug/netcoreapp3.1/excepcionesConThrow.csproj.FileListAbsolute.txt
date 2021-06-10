@@ -1,0 +1,13 @@
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\bin\Debug\netcoreapp3.1\excepcionesConThrow.exe
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\bin\Debug\netcoreapp3.1\excepcionesConThrow.deps.json
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\bin\Debug\netcoreapp3.1\excepcionesConThrow.runtimeconfig.json
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\bin\Debug\netcoreapp3.1\excepcionesConThrow.runtimeconfig.dev.json
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\bin\Debug\netcoreapp3.1\excepcionesConThrow.dll
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\bin\Debug\netcoreapp3.1\excepcionesConThrow.pdb
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\obj\Debug\netcoreapp3.1\excepcionesConThrow.csprojAssemblyReference.cache
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\obj\Debug\netcoreapp3.1\excepcionesConThrow.AssemblyInfoInputs.cache
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\obj\Debug\netcoreapp3.1\excepcionesConThrow.AssemblyInfo.cs
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\obj\Debug\netcoreapp3.1\excepcionesConThrow.csproj.CoreCompileInputs.cache
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\obj\Debug\netcoreapp3.1\excepcionesConThrow.dll
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\obj\Debug\netcoreapp3.1\excepcionesConThrow.pdb
+C:\Users\Yeison\source\repos\excepcionesConThrow\excepcionesConThrow\obj\Debug\netcoreapp3.1\excepcionesConThrow.genruntimeconfig.cache
