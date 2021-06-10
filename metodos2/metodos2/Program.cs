@@ -14,8 +14,8 @@ namespace metodos2
 
         //podemos realizar metodos sobrecardados de esta forma 
         static double Suma(int num1, double num2, double num3=0)
-            //podemos asignar un valor obcional en un metodo, y esto lo hacemos coloca ndo un igual a cero en el parametro deseado
-            //los parametros obcionales deben ir despues de los obloigatorios
+            //podemos asignar un valor opcional en un metodo, y esto lo hacemos colocando un igual a cero en el parametro deseado
+            //los parametros opcionales deben ir despues de los obloigatorios
         {
             return num1 + num2 + num3;
         }
